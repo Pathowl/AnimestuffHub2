@@ -1,3 +1,4 @@
+SITE IS STILL IN PROGRESS (UI problems expected ;D)
 # 🏙️ AnimeStuffHub
 
 **A high-performance discovery platform for curated anime merchandise.**
@@ -60,3 +61,4 @@ Bash
 npm run dev
 ```
 Open http://localhost:3000 to view the app.
+
