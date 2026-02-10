@@ -40,3 +40,23 @@ cd AnimestuffHub2
 
 # Install dependencies
 npm install
+```
+
+3. Configuration
+Create a .env.local file in the root directory and add your keys:
+
+```
+# AliExpress API (Backend)
+ALI_APP_KEY=your_key_here
+ALI_APP_SECRET=your_secret_here
+
+# Google Gemini API (Frontend)
+VITE_GEMINI_API_KEY=your_gemini_key_here
+```
+
+4. Run Development Server
+Bash
+```
+npm run dev
+```
+Open http://localhost:3000 to view the app.
