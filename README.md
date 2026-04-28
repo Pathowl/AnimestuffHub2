@@ -14,7 +14,7 @@ AnimeStuffHub solves the "data noise" problem of global marketplaces. By using c
 
 ## 🛠️ Tech Stack
 
-* **Frontend:** Next.js 14, React, TypeScript, Tailwind CSS
+* **Frontend:** Vite + React
 * **AI:** Google Gemini API (Generative AI)
 * **Backend:** Next.js Serverless Functions (Node.js)
 * **Icons:** Lucide React
